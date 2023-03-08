@@ -6,8 +6,5 @@
  который должен проверить неравенство треугольника. Этот метод необходимо использовать в
  конструкторе.
 При провале любой из проверок нужно вывести на экран соответствующее сообщение.*/
-public class Main {
-  public static void main(String[] args) {
-    System.out.println("Hello world!");
-  }
+public class Triangle {
 }
